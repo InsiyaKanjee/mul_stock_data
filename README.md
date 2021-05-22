@@ -13,3 +13,6 @@ There is also conditional formatting that will highlight positive change in gree
 The solution also returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
 
 The script should also loop through all the sheets in the worksheet on running once.
+
+The "Multi_Stock_Year_Data_Results_Images" folder has the screenshots of results of each sheet/year. 
+There are two screenshots per sheet/year - one for the starting of the summary table and one for the ending of the summary table.
